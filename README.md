@@ -1,1 +1,1 @@
-![Heh](https://raw.githubusercontent.com/tesu/tesu/master/long.png)
+![Heh](https://raw.githubusercontent.com/tesu/tesu/master/png.png)
